@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.amber {
+  background-color: #dee0e3;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  padding: 12px;
+}
+.blue {
+  display: flex;
+  flex-direction: column;
+}
+.orange {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.emerald {
+  display: flex;
+  flex-direction: column;
+}
+.button {
+  background-color: blue;
+  height: 30px;
+  width: 200px;
+  text-align: center;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  font-size: 12px;
+}
+.image {
+  height: 80px;
+  text-align: end;
+  width: 80px;
+}
+.line {
+  color: #64748b;
+  width: 2px;
+}
+.count {
+  background-color: blue;
+  height: 20px;
+  width: 20px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 10px;
+}
+.head {
+  color: #64748b;
+  font-size: 12px;
+}
